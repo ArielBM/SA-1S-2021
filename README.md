@@ -3,9 +3,6 @@
 
 
 
-
-
-
 <h1>Diccionario de Datos</h1>
 
 
@@ -46,7 +43,8 @@
 		<td>Alfa-númerico</td>
      	<td>Valor encriptado de la clave de ingreso de la persona</td>
 	</tr>    
-
+  </tbody>
+</table>
 
 
 <h3>Datos  Eleciones</h3>
@@ -56,7 +54,7 @@
 	<tr>
 		<th>Campo</th>
 		<th>Tipo</th>
-        <th>Dominio</th>
+                <th>Dominio</th>
 		<th>Descripción</th>
 	</tr>
 </thead>
@@ -97,8 +95,8 @@
 		<td>0-ingresado,1-Aprobado,2-publicado,3-Cerrado</td>
         <td>Representa el estado en que se encuentra la elección a ser realizada o que ya se a concluido</td>
 	</tr>
-    	</tr>
-
+    </tbody>
+</table>
 
    
 
@@ -281,7 +279,8 @@
 		<td>Fecha-hora</td>
      	<td>La fecha y hora que el cliente a ingresado su información al sistema</td>
 	</tr>
-
+    </tbody>
+</table>
 
 
 <h3>Votación Presencial</h3>
@@ -326,4 +325,5 @@
 		<td>Númerio entero</td>
      	<td>Indica si el voto emitido con el documento ingresado fue registrado como voto 0-No valido,1-Valido</td>
 	</tr>    
-
+    </tbody>
+</table>
